@@ -1,0 +1,5 @@
+*.pyc
+.env
+logs/*.log
+logs/paper_state.json
+EOF
